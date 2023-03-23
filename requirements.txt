@@ -1,0 +1,6 @@
+Django
+djangorestframework
+djoser
+drf-yasg
+mysqlclient
+
